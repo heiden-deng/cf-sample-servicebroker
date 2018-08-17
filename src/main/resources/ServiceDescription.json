@@ -1,0 +1,14 @@
+{
+"name" : "mds",
+"description" : "Market Data Service",
+"bindable" : true,
+"tags" : ["mds"],
+"metadata" : {
+"longDescription" : "Market Data Service. Plans defines how many clients share one node of TIBCO Rendezvous. Creating picks one service instance from pool and binding does nothing.",
+"imageUrl" : "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tibco.svg/240px-Tibco.svg.png",
+"displayName" : "Market Data Service",
+"providerDisplayName" : "Citic Securities",
+"documentationUrl" : "http://saasportal.oa.citicsinfo.com/wiki/index",
+"supportUrl" : "http://support.pivotal.io"
+}
+}
