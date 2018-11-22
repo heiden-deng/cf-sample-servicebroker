@@ -46,9 +46,9 @@ public class AppConfig {
 			PoolProperties p = new PoolProperties();
 			org.apache.tomcat.jdbc.pool.DataSource localds = new org.apache.tomcat.jdbc.pool.DataSource();
 			p.setDriverClassName("com.mysql.jdbc.Driver");
-			p.setUsername("yQliqLKfKwFE44Xe");
-			p.setPassword("tRa6macqZiPFoK65");
-			p.setUrl("jdbc:mysql://172.23.124.84:3306");
+			p.setUsername("test");
+			p.setPassword("test");
+			p.setUrl("jdbc:mysql://127.0.0.1:3306");
 			p.setMaxActive(5);
 			p.setMinIdle(1);
 			p.setMaxIdle(2);
